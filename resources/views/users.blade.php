@@ -23,7 +23,7 @@
                 <table class="table table-bordered table-striped">
                     <thead>
                         <tr>
-                            <th>No.</th>
+                            <th>No</th>
                             <th>Nama User</th>
                             <th>Tlp</th>
                         </tr>
